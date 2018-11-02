@@ -2,6 +2,7 @@
 Fruit classification service for Ambrosia
 
 ## Demo App
-`cd AISDemo`
-`npm start`
+`cd AISDemo
+npm install
+npm start`
 
