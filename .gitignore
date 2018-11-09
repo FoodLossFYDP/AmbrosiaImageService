@@ -106,3 +106,9 @@ venv.bak/
 # node modules
 node_modules/
 package-lock.json
+
+# image files
+data/*
+
+# server venv files
+server/bin/
